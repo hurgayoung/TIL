@@ -1,4 +1,4 @@
-# [0728] Python 5일차 - Data Structure
+# [0728] Python 5일차 - Data Structure (1)
 
 Table of Contents
 
