@@ -1,4 +1,4 @@
-# [0729] Python 6일차 - Data Structure (2)
+# [0728] Python 6일차 - Data Structure (2)
 
 Table of Contents
 
